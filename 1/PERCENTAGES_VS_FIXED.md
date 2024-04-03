@@ -15,3 +15,8 @@ When we apply a percentage, it will be responsive, but still overflow. A lot of 
 ## Why it's a good idea to avoid heights
 
 Sometimes we want containers to be a certain height so that it takes up more space for aesthetic reasons. But when we do so, overflow can happen and our page looks broken. Our content adapts to the viewport.
+
+## Challenge
+
+- [] Text should only go up to the midpoint of the container
+- [] Text should not overflow when viewport changes
