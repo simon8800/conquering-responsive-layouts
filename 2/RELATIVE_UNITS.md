@@ -25,3 +25,7 @@ If we want a button to scale with its font size, we would want to use em. If not
 ```
 
 The above example will ensure the button's padding scales with the button's font size.
+
+## Why you shouldn't set font-sizes using em
+
+Using ems can cause the compounding effect to destroy your website's layout. It is better to use rem most of the times as it references the root's font size and avoids compounding.
