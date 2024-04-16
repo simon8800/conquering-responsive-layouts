@@ -1,0 +1,7 @@
+# Review
+
+## Why you shouldn't use 'em's for font-size
+
+`em`'s compound on each other, so if you have a nested list using `em`'s, you will see your list's font sizes grow out of control.
+
+`em`'s set on anything but font sizes will refer to that element's font size, not its parent's.

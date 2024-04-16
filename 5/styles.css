@@ -14,9 +14,9 @@
   }
   
   .content {
-    width: 40%;
-    max-width: 750px;
-    margin-left: 25vmin;
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
   }
   
   .content h1 {
@@ -26,12 +26,12 @@
   }
   
   .content p {
-    font-size: 21px;
+    font-size: 1.3rem;
     opacity: .7;
   }
   
   .info {
-    margin: 25px 0;
+    width: 60%;
   }
   
   button {
